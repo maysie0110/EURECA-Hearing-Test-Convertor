@@ -1,0 +1,3 @@
+#Ignore foled with config and sftp
+config/
+.vscode/
